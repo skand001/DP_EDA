@@ -1,0 +1,25 @@
+﻿"Left-Skewed, Unimodal","Right-Skewed, Unimodal",Bimodal,Centered Peaks
+AdjustedVALossRate,PercentageOpsChangeVAData,CaseAscertainment,AdjustedPCRRate
+CentreNumber,PercentageOpsWithPreOpVA,PercentageOpsWithPostOpVA,CaseComplexityIndexPCR
+MedianPostOperativeVA,TimeFraction,,MedianAgeFirstEyeOperations
+MedianPreOperativeVA,,,MedianAgeSecondEyeOperations
+NumberHESOperations,,,Q1AgeFirstEyeOperations 
+NumberOfEligibleOperations,,,Q3AgeFirstEyeOperations
+NumberOfPatients,,,Q3AgeSecondEyeOperations
+NumberOfSurgeons,,,
+NumberOperationsCA,,,
+NumberOpsEligiblePostOpVA,,,
+NumberOpsEligibleVALos,,,
+NumOpsExcludingBilateral,,,
+PercentageOperationsCareer,,,
+PercentageOperationsConsultant,,,
+PercentageOperationsExperienced,,,
+PercentageOperationsLess,,,
+PercentageSecondEyeOperations,,,
+Q1AgeSecondEyeOperations,,,
+Q1PostOperativeVA,,,
+Q1PreOperativeVA,,,
+Q3PostOperativeVA,,,
+Q3PreOperativeVA,,,
+UnadjustedPCRRate,,,
+UnadjustedVALossRate,,,

@@ -1,0 +1,46 @@
+﻿Variable name,Variable description
+TrustName,The name of the contributing centre.
+ODSCode,"The NHS digital Organisation Data Service (ODS) code for the participating NHS Trust or Independent Sector Treatment Centre, or DHCW code for Welsh health boards."
+Country,Country or Crown Dependency where the participating centre is located.
+CentreType,Country or Crown Dependency where the participating centre is located.
+ITCLocation,The Independent Sector Treatment Centre location. This applies to 7 Independent Treatment Centre organisations who have supplied data.
+CentreNumber,The number allocated to each centre in the results published in RCOphth NOD reports.
+NumberHESOperations,The number of cataract operations using phacoemulsification reported to NHS digital or DHCW. Some centres supplied more cataract operations to the audit than they reported to NHS digital or DHCW. Thirteen centres had no data present in the file received from NHS Digital and two centres do not report to either NHS Digital or DHCW.
+TimeFraction,The fraction of the year used for case ascertainment. Not all centres had access to electronic data collection systems for the complete audit year. A fraction of the year calculated from the first date of cataract surgery was used to obtain a better estimate of case ascertainment.
+NumberOperationsCA,The number of cataract operations performed using phacoemulsification supplied to the audit by a participating centre.
+CaseAscertainment,"Estimate of case ascertainment, the number of submitted operations using phacoemulsification divided by the number of operations reported to NHS digital or DHCW."
+NumberEligibleOperations,The number of eligible cataract operations for each participating centre. For details of eligibility see the RCOphth NOD website (www.nodaudit.org.uk). The audit year was the 2021 NHS year (01/04/2021 to 31/03/2022).
+NumberOfSurgeons,The number of surgeons with data for eligible cataract operations in each centre.
+PercentageOperationsConsultant,The percentage of cataract operations performed by consultant surgeons.
+PercentageOperationsCareerGrade,The percentage of cataract operations performed by career grade non-consultant surgeons.
+PercentageOperationsMoreExperiencedTrainees,The percentage of cataract operations performed by more experienced trainee surgeons.
+PercentageOperationsLessExperiencedTrainees,The percentage of cataract operations performed by less experienced trainee surgeons.
+NumberOfPatients,The number of patients undergoing cataract surgery in each centre.
+NumberOpsExcludingBilateral,The number of eligible cataract operations excluding bilateral surgery which are not included in the first and second treated eye results.
+PercentageFirstEyeOperations,The percentage of cataract operations performed in the patients first treated eye.
+Q1AgeFirstEyeOperations,The lower bound of the inter-quartile range for the patients age at the time of first treated eye surgery.
+MedianAgeFirstEyeOperations,Median age in years of the patients at the time of the first treated eye surgery.
+Q3AgeFirstEyeOperations,The upper bound of the inter-quartile range for the patients age at the time of first treated eye surgery.
+PercentageSecondEyeOperations,The percentage of cataract operations performed in the patients second treated eye.
+Q1AgeSecondEyeOperations,The lower bound of the inter-quartile range for the patients age in years at the time of second treated eye surgery.
+MedianAgeSecondEyeOperations,Median age in years of the patients at the time of the second treated eye surgery.
+Q3AgeSecondEyeOperations,The upper bound of the inter-quartile range for the patients age in years at the time of second treated eye surgery.
+PercentageOpsWithPreOpVA,The percentage of cataract operations with a recorded preoperative visual acuity measurement.
+Q1PreOperativeVA,The lower bound of the inter-quartile range for preoperative LogMAR visual acuity. No results are produced for centres with <50 eligible operations with a preoperative VA measurement.
+MedianPreOperativeVA,Median preoperative LogMAR visual acuity. No results are produced for centres with <50 eligible operations with a preoperative VA measurement.
+Q3PreOperativeVA,The upper bound of the inter-quartile range for preoperative LogMAR visual acuity. No results are produced for centres with <50 eligible operations with a preoperative VA measurement.
+PercentageAnyCopathology,The percentage of cataract operations with any ocular co-pathology / known PCR risk indicator.
+UnadjustedPCRRate,Unadjusted Posterior Capsular Rupture Rate as a percentage. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+CaseComplexityIndexPCR,The overall predicted probability of PCR occurring based on the supplied case complexity data and displayed as a percentage. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+AdjustedPCRRate,Case Complexity Adjusted Posterior Capsular Rupture Rate as a percentage. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+NumberOpsEligiblePostOpVA,The number of cataract operations eligible for postoperative visual acuity results. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022.
+PercentageOpsWithPostOpVA,The percentage of cataract operations with a recorded postoperative visual acuity measurement. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. No result is produced for centres with <50 eligible operations in the postoperative time period. 
+Q1PostOperativeVA,"The lower bound of the inter-quartile range for postoperative LogMAR visual acuity. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. No result is produced for centres with <50 eligible operations in the postoperative time period, or centres with <50 eligible operations with a postoperative VA measurement."
+MedianPostOperativeVA,"Median postoperative LogMAR visual acuity. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. No result is produced for centres with <50 eligible operations in the postoperative time period, or centres with <50 eligible operations with a postoperative VA measurement."
+Q3PostOperativeVA,"The upper bound of the inter-quartile range for postoperative LogMAR visual acuity. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. No result is produced for centres with <50 eligible operations in the postoperative time period, or centres with <50 eligible operations with a postoperative VA measurement."
+PercentageOpsChangeVAData,"The percentage of cataract operations with both a preoperative and postoperative visual acuity measurement. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. No result is produced for centres with <50 eligible operations in the postoperative time period, or centres with <50 eligible operations with a postoperative VA measurement."
+NumberOpsEligibleVALoss,Number of cataract operations eligible for Visual Acuity Loss. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022 and for full details of eligibility see the RCOphth NOD website (www.nodaudit.org.uk)
+UnadjustedVALossRate,Unadjusted Visual Acuity Loss Rate as a percentage. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+CaseComplexityIndexVALoss,The overall predicted probability of VA Loss occurring based on the supplied case complexity data and displayed as a percentage. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+AdjustedVALossRate,Case Complexity Adjusted Visual Acuity Loss Rate as a percentage. Note the postoperative visual acuity time period was from 01/04/2021 to 31/01/2022. For details about eligibility see the RCOphth NOD website (www.nodaudit.org.uk).
+Information,The data for Moorfields Eye Hospital NHS Foundation Trust includes data from Croydon Health Services NHS Trust and patients treated in Bedford Hospital from the Bedfordshire Hospitals NHS Foundation Trust. Patients from Airedale NHS Trust have cataract surgery under the care of Bradford Teaching Hospitals NHS Foundation Trust.
